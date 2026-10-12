@@ -4,7 +4,7 @@ About 300 pages of personal notes for the course *Statistical Models and Applica
 ([University], [Lecturer], 2025). Each method is derived formally and then worked
 through in R, with code and output.
 
-📄 **[Read the notes (PDF)](statistical-models-notes.pdf)**
+📄 **[Read the notes (PDF)](Statistical-models-notes.pdf)**
 
 ## Contents
 1. Gaussian linear model: ML and REML estimation, likelihood ratio and Wald tests, categorical regressors
